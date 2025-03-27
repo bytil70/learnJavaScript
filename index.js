@@ -55,3 +55,4 @@ let fullname = 'Bro Code';
 let age = 25;
 let isStudent = false;
 
+document.getElementById("p1").textContent = fullname
